@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="ANTENNA OPTIMIZER RF V10">
+</p>
+
+<h1 align="center">ANTENNA OPTIMIZER RF V10</h1>
 # ANTENNA OPTIMIZER RF V10
 
 Plataforma en Python para simular y optimizar la ubicación y orientación de antenas 4G/5G en entornos urbanos mediante modelado radioeléctrico, datos geográficos y el algoritmo PSO.
