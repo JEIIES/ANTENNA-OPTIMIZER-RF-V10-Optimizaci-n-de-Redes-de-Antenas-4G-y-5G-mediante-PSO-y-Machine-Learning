@@ -37,3 +37,6 @@ El proyecto incluye un notebook para Google Colab:
 ## Resultados
 
 La ejecución puede generar mapas RF interactivos, una visualización 3D, gráficas de convergencia, análisis de Machine Learning, archivos CSV, una base de datos SQLite y un resumen ejecutivo.
+
+## Link video en youtube
+[https://youtu.be/c6hQFk1QlZU](https://youtu.be/c6hQFk1QlZU)
